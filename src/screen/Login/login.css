@@ -1,0 +1,33 @@
+/* body{
+    /* background-color: rgb(192, 186, 186); */
+/* } */
+.App{
+    margin-left: 40%;
+    margin-top: 15%;
+
+}
+.text{
+    background-color: #f1f2fA;
+    border-radius: 10px;
+    width: 300px;
+    border: none;
+    height: 30px;
+    padding: 10px;
+}
+.center{
+    margin-left: 195px;
+    font-size: 17px;
+    color: blue;
+}
+.cen{
+    margin-left: 200px;
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: #6905DB;
+    border: none;
+}
+.m{
+    color: #6a7c92;
+}

@@ -1,0 +1,33 @@
+* {
+ margin: 0%;
+ padding: 0;   
+}
+.allinput{
+    background-color: #f1f2fA;
+    height: 40px;
+    border: none;
+    width: 280px;
+    text-align: center;
+    border-radius: 10px;
+    color: #6a7c92; 
+    margin-left: 25px;
+ }
+h2{
+    color: #6a7c92;
+}
+/* .all{margin-left: 10px;
+    margin-bottom: 00px;
+
+} */
+.Appweb{
+    height: r;
+    
+}
+.button{
+    background-color: #6905DB;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    color: white;
+}
